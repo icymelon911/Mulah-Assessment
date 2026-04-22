@@ -1,0 +1,25 @@
+body {
+font-family: sans-serif;
+margin: 40px;
+line-height: 1.6;
+}
+
+table {
+border-collapse: collapse;
+width: 300px;
+margin-bottom: 30px;
+}
+
+th,td {
+border: 1px solid #ccc;
+padding: 10px;
+text-align: center;
+}
+
+th {
+background-color: #f4f4f4;
+}
+
+h2 {
+color: #333;
+}
